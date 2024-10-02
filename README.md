@@ -1,8 +1,8 @@
 # Programming Functions Class Activity
 
-## Assigned; Friday 27 September 2024
+## Assigned; Wednesday, 2nd October 2024
 
-## Due Friday; 27 September 2024, __by end of class__
+## Due Wednesday, 2nd October 2024 __by end of class__
 
 ---
 
