@@ -10,7 +10,7 @@ For the below questions, please answer using _clear and meaningful_ language. Pl
 
 ### Q1
 
-Please explain what the `summary()` command is used for and why this function is useful when working with a dataset. Can you give an example of a question for a particular dataset in which this function would provide especially usful information?
+Please explain what the `summary()` command is used for and why this function is useful when working with a dataset. Can you give an example of a question for a particular dataset in which this function would provide especially useful information?
 
 ``` text
 TODO
